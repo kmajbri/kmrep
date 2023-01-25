@@ -5,3 +5,6 @@ activate vigilant mode
 
 
 added GPG key + activated systematic commit gpg sign
+
+
+change email to simulate an unverified commit
